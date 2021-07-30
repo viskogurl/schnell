@@ -1,0 +1,19 @@
+{
+  "name": "schnell",
+  "version": "1.0.0",
+  "description": "🐌 A middleman for your app and backend providing ultra-low latency queries.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viskogurl/schnell.git"
+  },
+  "author": "Ian King",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viskogurl/schnell/issues"
+  },
+  "homepage": "https://github.com/viskogurl/schnell#readme",
+  "dependencies": {
+    "mongodb": "^4.0.0"
+  }
+}
